@@ -1,6 +1,6 @@
 package com.proxy;
 
-public class BusinessObjectProxy implements BusinessObject {
+public class BusinessObjectProxy extends BusinessObject {
 
 	private BusinessObject target;
 	

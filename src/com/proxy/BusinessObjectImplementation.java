@@ -1,6 +1,6 @@
 package com.proxy;
 
-public class BusinessObjectImplementation implements BusinessObject {
+public class BusinessObjectImplementation extends BusinessObject {
 
 	/* (non-Javadoc)
 	 * @see com.proxy.BusinessObject#sayHi()
